@@ -1,4 +1,4 @@
-# coba-post-app
+# post-app
 
 ## Project setup
 ```
